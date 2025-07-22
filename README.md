@@ -8,7 +8,9 @@ Github repo: https://github.com/aime-ishimwe/ProductDisplaySystem
 Make sure the following are installed on your machine:
 
 .NET 7.0 SDK or later
+
 SQL Server (or SQL Server Express)
+
 Visual Studio 2022+ with:
   ASP.NET and web development workload
   SQL Server Data Tools
