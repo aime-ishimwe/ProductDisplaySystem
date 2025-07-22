@@ -1,7 +1,7 @@
 ## Product Display System
 This is a simple Blazor Server application that shows a list of products from a database. 
 
-Github repo: 
+Github repo: https://github.com/aime-ishimwe/ProductDisplaySystem
 ## How to run application
 
 ##Prerequisites
