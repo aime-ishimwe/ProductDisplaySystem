@@ -1,8 +1,8 @@
-##Product Display System
+## Product Display System
 This is a simple Blazor Server application that shows a list of products from a database. 
 
 Github repo: 
-##How to run application
+## How to run application
 
 ##Prerequisites
 Make sure the following are installed on your machine:
@@ -40,9 +40,9 @@ more projects in the future to gain more experience. I also had problems with MS
 it was intersting, and a lot simpler than I expected it to be.
 
 
-##What was hardest for me
+## What was hardest for me
 The hardest thing for me was modifying the database with my blazor application. I managed to connect the database to the app, but when it came to adding new products and deleting products I really struggled.
 I managed to to connect my form to the categories table(you can see this when you use the drop down, it displays the categories in the database), however when I tried to add new products, 
 the products couldn't save to the database for some reason, same as when I tried to delete products, the products wouldn't delete from the database. I tried everything I could but the problem persisted.
 
-ANother part that I strugglked with was implementing Bootstrap/Mudblazor for design, I kept running into errors even after I instlled all the dependencies, hence I was unable to add some nice styling.
+Another part that I strugglked with was implementing Bootstrap/Mudblazor for design, I kept running into errors even after I instlled all the dependencies, hence I was unable to add some nice styling.
