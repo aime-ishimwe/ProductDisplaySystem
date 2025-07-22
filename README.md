@@ -15,6 +15,7 @@ Visual Studio 2022+ with:
   ASP.NET and web development workload
   SQL Server Data Tools
 
+## Instructions
  1. Download the zipped folder, and extract all the files.
  2. Open the project with Visual Studio. 
  3. Open SQL Server Management Studio (SSMS), and run the following SQL to create and populate your tables:
