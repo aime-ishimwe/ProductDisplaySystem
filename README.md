@@ -16,6 +16,7 @@ Visual Studio 2022+ with:
  1. Download the zipped folder, and extract all the files.
  2. Open the project with Visual Studio. 
  3. Open SQL Server Management Studio (SSMS), and run the following SQL to create and populate your tables:
+    
      CREATE TABLE Categories (
     Id INT PRIMARY KEY IDENTITY,
     Name NVARCHAR(100) NOT NULL,
