@@ -30,8 +30,10 @@ CREATE TABLE Products (
     CategoryId INT,
     FOREIGN KEY (CategoryId) REFERENCES Categories(Id)
 );
-4. Connect you Database to the project with a connection string e.g:"Server=YOUR_SERVER_NAME;Database=ProductDB;Trusted_Connection=True;TrustServerCertificate=True;". 
-5. Run the app in visual studio.
+
+4. Connect you Database to the project with a connection string e.g:"Server=YOUR_SERVER_NAME;Database=ProductDB;Trusted_Connection=True;TrustServerCertificate=True;".
+   
+6. Run the app in visual studio.
 
 
 ## What I learned
