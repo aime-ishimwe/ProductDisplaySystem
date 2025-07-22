@@ -4,7 +4,7 @@ This is a simple Blazor Server application that shows a list of products from a 
 Github repo: https://github.com/aime-ishimwe/ProductDisplaySystem
 ## How to run application
 
-##Prerequisites
+## Prerequisites
 Make sure the following are installed on your machine:
 
 .NET 7.0 SDK or later
